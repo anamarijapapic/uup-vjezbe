@@ -1,0 +1,8 @@
+runfile('C:/Users/Anamarija/Downloads/vj3-2.py', wdir='C:/Users/Anamarija/Downloads')
+-4
+-4
+0
+1
+False
+False
+False

@@ -1,0 +1,5 @@
+runfile('C:/Users/User/untitled1.py', wdir='C:/Users/User')
+  File "C:/Users/User/untitled1.py", line 4
+    print(Hello world) #nije u redu
+                    ^
+SyntaxError: invalid syntax

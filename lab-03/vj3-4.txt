@@ -1,0 +1,5 @@
+runfile('C:/Users/User/Desktop/Anamarija Papic/vj3-4.py', wdir='C:/Users/User/Desktop/Anamarija Papic')
+1
+2
+3
+4

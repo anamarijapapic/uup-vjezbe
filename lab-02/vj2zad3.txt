@@ -1,0 +1,16 @@
+a=int(input("unesite 1. broj: "))
+
+unesite 1. broj: 2
+
+b=int(input("unesite 2. broj: "))
+
+unesite 2. broj: 3
+
+c=int(input("unesite 3. broj: "))
+
+unesite 3. broj: 4
+
+s=(a+b+c)/3
+
+print("srednja vrijednost:", s)
+srednja vrijednost: 3.0
